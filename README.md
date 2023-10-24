@@ -12,7 +12,7 @@
 
 ### PDFReaderClient (front-end)
 - Para que o projeto funcione corretamente, você deve instalar as dependências do projeto, rodando o comando na raiz do projeto:
- - `npm install` caso estiver usando o NPM como seu gerenciador de pacotes ou `yarn` caso esteja usando o YARN
+  - `npm install` caso estiver usando o NPM como seu gerenciador de pacotes ou `yarn` caso esteja usando o YARN
 - Para rodar o projeto no localhost, você deve usar este comando na raiz do projeto:
   - `npm run dev` caso esteja usando o NPM ou `yarn dev` caso esteja usando o YARN
 - Para ver em que porta a aplicação está rodando, você deve consultar o terminal onde rodou os comandos
